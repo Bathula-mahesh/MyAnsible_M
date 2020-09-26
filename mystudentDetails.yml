@@ -1,0 +1,25 @@
+---
+- StudentDetails:
+    - name: asif
+      phno: 7878787878
+      email: asif@gmail.com
+      address:
+         - doorno: 12
+           street: 2
+           pincode: 500072
+
+    - name: Bharath
+      phno: 8484848484
+      email: bharath@gmail.com
+      address:
+         - doorno: 12
+           street: 2
+           pincode: 500072
+
+    - name: Divya
+      phno: 9898989898
+      email: Divya@gmail.com
+      address:
+         - doorno: 12
+           street: 2
+           pincode: 500072
